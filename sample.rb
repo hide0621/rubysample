@@ -1,3 +1,3 @@
-array = ["Tanaka", "Sato", "Suzuki"]
+User = {"Tanaka" => 21, "Sato" => 18, "Suzuki" => 23}
 
-puts array[0] 
+print(User["Tanaka"])
