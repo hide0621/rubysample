@@ -1,3 +1,3 @@
-word = "Hello Ruby!"
+array = ["Tanaka", "Sato", "Suzuki"]
 
-puts word
+puts array[0] 
